@@ -7,4 +7,3 @@ function updateObjectWithKeyAndValue(object, key,value){
   return newObj
 }
 updateObjectWithKeyAndValue(obj,'prop2',2)
-
